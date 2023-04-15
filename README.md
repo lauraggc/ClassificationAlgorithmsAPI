@@ -1,2 +1,3 @@
 # ClassificationAlgorithmsAPI
- API for classification algorithms in Java
+Classification algorithms API in Java
+Object-oriented programming
